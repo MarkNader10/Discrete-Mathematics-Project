@@ -45,7 +45,7 @@ This project was completed by a team of four Computer Science students.
 
 The complete project report can be found here:
 
-📄 [Discrete Mathematics Project Report](docs/Project of Discrete Mathematics.pdf)
+📄 [Discrete Mathematics Project Report](docs/Project%20of%20Discrete%20Mathematics.pdf)
 
 ## How to Run
 1. Open the solution in Visual Studio 2022.
